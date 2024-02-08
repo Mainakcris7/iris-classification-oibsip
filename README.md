@@ -15,7 +15,7 @@ This project constitutes a pivotal component of my **Oasis InfoByte Data Science
 
 
 
-![Logo][(https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png](https://miro.medium.com/v2/resize:fit:720/1*YYiQed4kj_EZ2qfg_imDWA.png))
+![Logo](https://miro.medium.com/v2/resize:fit:720/1*YYiQed4kj_EZ2qfg_imDWA.png)
 
 
 ## 🚀 About Me
