@@ -15,7 +15,7 @@ This project constitutes a pivotal component of my **Oasis InfoByte Machine Lear
 
 
 
-![Logo]([https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png](https://hips.hearstapps.com/hmg-prod/images/gettyimages-1157759107-64c9396275685.jpg?crop=0.888015717092338xw:1xh;center,top&resize=1200:*))
+![Logo]([[https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png](https://hips.hearstapps.com/hmg-prod/images/gettyimages-1157759107-64c9396275685.jpg?crop=0.888015717092338xw:1xh;center,top&resize=1200:*)](https://www.ugaoo.com/cdn/shop/articles/shutterstock_146890418.jpg?v=1661887143))
 
 
 ## 🚀 About Me
